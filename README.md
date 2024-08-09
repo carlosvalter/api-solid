@@ -17,7 +17,7 @@ Um app parecido com GymPass, que você paga um valor em crédito e te dá direit
 - [ ] Deve ser possível validar o check-in de um usuário
 - [ ] Deve ser possível cadastrar uma academia;
 
-## RNs (Regras de negócio)
+## RNs (Regras de negócio) -> User Case
 
 - [ ] O usuário não deve poder se cadastrar com um e-mail duplicado;
 - [ ] O usuário não pode fazer 2 check-ins no mesmo dia;
